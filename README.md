@@ -7,11 +7,15 @@ just change
       MINIO_ROOT_PASSWORD: password
 
  and run
+ 
       docker-compose up -d 
-      or
+      
+ or
+      
       docker compose up -d 
 
+webui
 
-http://localhost:9001      
+      http://localhost:9001      
 
     
